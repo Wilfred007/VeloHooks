@@ -1,0 +1,6 @@
+solmate/=lib/solmate/
+v4-core/=lib/v4-core/src/
+forge-std/=lib/forge-std/src/
+@openzeppelin/=lib/v4-core/lib/openzeppelin-contracts/
+@ensdomains/=lib/v4-core/node_modules/@ensdomains/
+hardhat/=lib/v4-core/node_modules/hardhat/
